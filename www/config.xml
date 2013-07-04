@@ -10,7 +10,7 @@
 
     <description>
         Hello World sample application that responds to the deviceready event.
-        <br>
+        <br/>
         This text comes from the local version of my app.
     </description>
 
